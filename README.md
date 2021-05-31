@@ -20,5 +20,5 @@ OBJETIVOS ESPECIFICO
 
 1.2.2 Identificar los tipos de circuitos en donde podemos aplicar los conceptos de corriente y voltaje
 
- 2c. MARCO TEORICO
+2.MARCO TEORICO
 
