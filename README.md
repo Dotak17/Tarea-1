@@ -27,4 +27,5 @@ OBJETIVOS ESPECIFICO
 
 ![](https://github.com/Dotak17/Tarea-1/issues/3#issue-907739285)
 
+![](https://github.com/Dotak17/Tarea-1/issues/4#issue-907739469)
 
