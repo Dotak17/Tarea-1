@@ -22,3 +22,6 @@ OBJETIVOS ESPECIFICO
 
  2. MARCO TEORICO
 ![](https://github.com/Dotak17/Tarea-1/issues/1#issue-907731325)
+
+![](https://github.com/Dotak17/Tarea-1/issues/2#issue-907731522)
+
