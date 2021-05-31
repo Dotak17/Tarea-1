@@ -23,3 +23,14 @@ OBJETIVOS ESPECIFICO
 2.MARCO TEORICO
 
 ![](https://user-images.githubusercontent.com/84397282/120244889-1a939e00-c231-11eb-8ff0-3c3e695e8412.png)
+
+![](https://user-images.githubusercontent.com/84397282/120244925-3303b880-c231-11eb-8925-fc0fc9550a64.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120246168-0d78ae00-c235-11eb-8f62-abedfb558158.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120246188-1ec1ba80-c235-11eb-8f3b-e7007c6a66ef.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120246217-3731d500-c235-11eb-85f3-03e921f860e1.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120246873-2c783f80-c237-11eb-936f-4985fa752811.jpg)
+
