@@ -20,16 +20,5 @@ OBJETIVOS ESPECIFICO
 
 1.2.2 Identificar los tipos de circuitos en donde podemos aplicar los conceptos de corriente y voltaje
 
- 2. MARCO TEORICO
-![](https://github.com/Dotak17/Tarea-1/issues/1#issue-907731325)
-
-![](https://github.com/Dotak17/Tarea-1/issues/2#issue-907731522)
-
-![](https://github.com/Dotak17/Tarea-1/issues/3#issue-907739285)
-
-![](https://github.com/Dotak17/Tarea-1/issues/4#issue-907739469)
-
-![](https://github.com/Dotak17/Tarea-1/issues/5#issue-907739714)
-
-![](https://github.com/Dotak17/Tarea-1/issues/7#issue-907743209)
+ 2c. MARCO TEORICO
 
