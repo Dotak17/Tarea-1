@@ -1,5 +1,7 @@
 #Informe Tarea 1 Capitulos 1 y 2
-Autores Joseline Cuaspud, Kevin Dota, Bryan Pasato
+
+Autores Joseline Cuaspud Kevin Dota Bryan Pasato
+
 
 1. OBJETIVOS GENERALES
 1.1 Identificar el sistema de un circuito eléctrico, eel comportamiento eléctrico, principios, conceptos y relaciones matemáticas, a través de la teoria del circuito y metodos de análisis
