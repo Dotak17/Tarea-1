@@ -22,3 +22,4 @@ OBJETIVOS ESPECIFICO
 
 2.MARCO TEORICO
 
+![](https://user-images.githubusercontent.com/84397282/120244889-1a939e00-c231-11eb-8ff0-3c3e695e8412.png)
