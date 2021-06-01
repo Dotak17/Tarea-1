@@ -120,3 +120,18 @@ OBJETIVOS ESPECIFICO
 ![](https://user-images.githubusercontent.com/84998013/120264260-ff418680-c262-11eb-9135-7b37544d3c57.jpeg)
 
 ![](https://user-images.githubusercontent.com/84998013/120264298-154f4700-c263-11eb-9103-535544268ca1.jpeg)
+
+
+4. VIDEO
+
+
+
+5. CONCLUSIONES
+
+*Como consecuencia de lo expuesto se resolvieron todos los ejercicios presentes en el documento.
+
+*En conclusión, la aplicación de las técnicas de búsqueda de una unidad base y la separación de cada una de las partes en sus unidades fundamentales fueron de mucha ayuda para solucionar los problemas del libro.
+
+*Se puede concluir que las conversiones de unidades sirven para relacionar diferentes sistemas métricos y con ello lograr un vínculo en las magnitudes como las que se pudieron apreciar en los diferentes ejercicios realizados.
+
+*Para poder tener una medida de voltaje correcta se deben colocar las puntas del voltímetro a través del componente cuyo voltaje se desea determinar. Si la lectura del voltímetro es positiva, nos quieres decir que se conecto de una forma correcta si no es así es que esta conectado de forma errónea ya que nos da un valor negativo.
