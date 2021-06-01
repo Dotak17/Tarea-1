@@ -77,6 +77,8 @@ OBJETIVOS ESPECIFICO
 
 ![](https://user-images.githubusercontent.com/84998013/120263048-90632e00-c260-11eb-89d0-044a0d7079ee.jpeg)
 
+![](https://user-images.githubusercontent.com/84998013/120263145-bc7eaf00-c260-11eb-8ad9-43fdce09ed80.jpeg)
+
 
    Ejercicios resueltos del segundo tema "VOLTAJE Y CORRIENTE"
    
