@@ -124,7 +124,7 @@ OBJETIVOS ESPECIFICO
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=RgNmOFHpKCw
 
 5. CONCLUSIONES
 
@@ -135,3 +135,10 @@ OBJETIVOS ESPECIFICO
 *Se puede concluir que las conversiones de unidades sirven para relacionar diferentes sistemas métricos y con ello lograr un vínculo en las magnitudes como las que se pudieron apreciar en los diferentes ejercicios realizados.
 
 *Para poder tener una medida de voltaje correcta se deben colocar las puntas del voltímetro a través del componente cuyo voltaje se desea determinar. Si la lectura del voltímetro es positiva, nos quieres decir que se conecto de una forma correcta si no es así es que esta conectado de forma errónea ya que nos da un valor negativo.
+
+6.BIBLIOGRAFIA
+
+- Béla Bodó; Colin Jones (26 de junio de 2013). Introduction to Soil Mechanic
+- Martinez, I. (2005). CORRIENTE Y BLOQUES DE FUNCIONES ARTMÉTICAS
+- Triana, J.(2011). FUENTES DE VOLTAJE Y CORRIENTE DC
+- 
