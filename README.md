@@ -38,6 +38,8 @@ OBJETIVOS ESPECIFICO
     
     Ejercicios resueltos del primer tema "CONCEPTOS FUNDAMENTALES DE CD"
 
+![](https://user-images.githubusercontent.com/84998005/120265802-5ac14380-c266-11eb-86ca-16c0589ecc74.png)
+
 
 
 
