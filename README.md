@@ -35,7 +35,28 @@ OBJETIVOS ESPECIFICO
 ![](https://user-images.githubusercontent.com/84397282/120246873-2c783f80-c237-11eb-936f-4985fa752811.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+    
+   
 
 
 
 
+
+
+
+
+![](https://user-images.githubusercontent.com/84397282/120256228-4b84ca80-c253-11eb-8de6-37ec53f85fd0.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256232-4cb5f780-c253-11eb-8a7f-48a5ffc0b300.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256233-4cb5f780-c253-11eb-87c9-4aff0e0e894a.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256234-4d4e8e00-c253-11eb-85f8-bfae11419b8a.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256235-4d4e8e00-c253-11eb-9408-18fdd2a76704.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256236-4d4e8e00-c253-11eb-80cf-dde30f7c90bc.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256238-4d4e8e00-c253-11eb-957c-46865fa540c4.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/120256239-4de72480-c253-11eb-9a8b-09d965c683bc.jpg)
