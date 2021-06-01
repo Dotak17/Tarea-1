@@ -40,6 +40,19 @@ OBJETIVOS ESPECIFICO
 
 ![](https://user-images.githubusercontent.com/84998005/120265802-5ac14380-c266-11eb-86ca-16c0589ecc74.png)
 
+![](https://user-images.githubusercontent.com/84998005/120265800-5a28ad00-c266-11eb-9271-efde38e8b925.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265798-5a28ad00-c266-11eb-86d8-2c866a772966.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265795-59901680-c266-11eb-8fb2-eda82d946be1.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265793-585ee980-c266-11eb-863e-99940231801e.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265803-5b59da00-c266-11eb-8cf7-ca2e7cf58e4b.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265807-5c8b0700-c266-11eb-9ae2-dcb3304baec0.png)
+
+![](https://user-images.githubusercontent.com/84998005/120265806-5bf27080-c266-11eb-89af-860ca2676596.png)
 
 
 
