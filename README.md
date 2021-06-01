@@ -63,8 +63,6 @@ OBJETIVOS ESPECIFICO
 
 
 
-https://github.com/Dotak17/Tarea-1/issues/13#issue-907818840
-
 
 
 
