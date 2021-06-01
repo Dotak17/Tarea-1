@@ -36,7 +36,7 @@ OBJETIVOS ESPECIFICO
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
     
-   
+    Ejercicios resueltos del primer tema conceptos "CONCEPTOS FUNDAMENTALES DE CD"
 
 
 
