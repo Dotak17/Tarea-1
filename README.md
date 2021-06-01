@@ -66,7 +66,9 @@ OBJETIVOS ESPECIFICO
 ![](https://user-images.githubusercontent.com/84998013/120259286-4aef3280-c259-11eb-873a-4b8a001e21d0.jpeg)
 
 
-![](https://user-images.githubusercontent.com/84998013/120261794-41b49480-c25e-11eb-8cc4-bf756cce7bdd.jpeg)
+![](https://user-images.githubusercontent.com/84998013/120261794-41b49480-c25e-11eb-8cc4-bf756cce7bdd.jpeg) 
+
+![](https://user-images.githubusercontent.com/84998013/120262763-f602ea80-c25f-11eb-8905-0f433501a31d.jpeg)
 
 ![](https://user-images.githubusercontent.com/84998013/120261974-9fe17780-c25e-11eb-8a08-9b5428204d1f.jpeg)
 
