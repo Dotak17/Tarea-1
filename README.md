@@ -97,7 +97,20 @@ OBJETIVOS ESPECIFICO
 
    Ejercicios resueltos del segundo tema "VOLTAJE Y CORRIENTE"
    
-   
+ ![](https://user-images.githubusercontent.com/84998005/120270416-2dc55e80-c26f-11eb-8935-7121f7a4d5f4.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270410-2c943180-c26f-11eb-9e59-fd6a075defb0.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270407-2bfb9b00-c26f-11eb-9405-6f2137384303.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270406-2b630480-c26f-11eb-98fc-27f48d871658.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270405-2aca6e00-c26f-11eb-898a-71a7c6d58b98.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270422-2ef68b80-c26f-11eb-9721-e1fe2c3cc86c.png)
+ 
+ ![](https://user-images.githubusercontent.com/84998005/120270420-2e5df500-c26f-11eb-97e9-dc741e0ab20a.png)
+ 
 
 
 
