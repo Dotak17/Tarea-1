@@ -36,8 +36,7 @@ OBJETIVOS ESPECIFICO
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
     
-    Ejercicios resueltos del primer tema conceptos "CONCEPTOS FUNDAMENTALES DE CD"
-
+    Ejercicios resueltos del primer tema "CONCEPTOS FUNDAMENTALES DE CD"
 
 
 
@@ -60,3 +59,28 @@ OBJETIVOS ESPECIFICO
 ![](https://user-images.githubusercontent.com/84397282/120256238-4d4e8e00-c253-11eb-957c-46865fa540c4.jpg)
 
 ![](https://user-images.githubusercontent.com/84397282/120256239-4de72480-c253-11eb-9a8b-09d965c683bc.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Ejercicios resueltos del segundo tema "VOLTAJE Y CORRIENTE"
+   
+   
+   
+   
+   
+   
+   
+   
+   
