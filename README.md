@@ -169,4 +169,4 @@ https://www.youtube.com/watch?v=RgNmOFHpKCw
 - Béla Bodó; Colin Jones (26 de junio de 2013). Introduction to Soil Mechanic
 - Martinez, I. (2005). CORRIENTE Y BLOQUES DE FUNCIONES ARTMÉTICAS
 - Triana, J.(2011). FUENTES DE VOLTAJE Y CORRIENTE DC
-- 
+- J Charles K. Alexande(2013).FUNDAMENTOS DE CIRCUITOS ELECTRICOS
